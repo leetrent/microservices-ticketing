@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: auth
-          image: leetrent/auth
+          image: us.gcr.io/ticketing-dev-290911/auth
